@@ -12,4 +12,5 @@ public class UserController {
 	public String helloWorld() {
 		return "Hello Spring Boot API";
 	}
+	
 }
